@@ -56,7 +56,6 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  
  ![image](https://github.com/Naadira/Forward-kinematics-using-robot-analyzer/assets/128135126/9d7e34a3-34a6-4357-8e9c-4771bb9b97f7)
 
-
 6 DOF:
 
 ![image](https://github.com/Naadira/Forward-kinematics-using-robot-analyzer/assets/128135126/f63cac00-f707-45fb-bd3f-19d7f954d41b)
